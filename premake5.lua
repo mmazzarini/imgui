@@ -1,1 +1,2 @@
-
+project "ImGui"
+    kind "Staticlib"
